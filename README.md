@@ -1,6 +1,6 @@
-# Clic-it 2023 Models
+# CLiC-it 2023 Models
 
-This repository contains the implementation for the paper "Hate Speech Detection in Italian Incel Forums", submitted to Clic-It 2023 (https://clic2023.ilc.cnr.it/).
+This repository contains the implementation for the paper "Hate Speech Detection in Italian Incel Forums", submitted to CLiC-it 2023 (https://clic2023.ilc.cnr.it/).
 
 Authors: Paolo Gajo, Alberto Barrón Cedeño, Silvia Bernardini, Adriano Ferraresi
 
