@@ -1,4 +1,4 @@
-# CLiC-it 2023 Models
+# CLiC-it 2023
 
 This repository contains the implementation for the paper "Hate Speech Detection in Italian Incel Forums", submitted to CLiC-it 2023 (https://clic2023.ilc.cnr.it/).
 
