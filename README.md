@@ -11,4 +11,5 @@ The models used in the paper can be accessed through Hugging Face with the follo
 - AlBERTo: [m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alb3rt0](https://huggingface.co/m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alb3rt0)
 - Incel AlBERTo: [pgajo/incel-alberto](https://huggingface.co/pgajo/incel-alberto)
 - UmBERTo: [Musixmatch/umberto-commoncrawl-cased-v1](https://huggingface.co/Musixmatch/umberto-commoncrawl-cased-v1)
-- Incel UmBERTo: [pgajo/incel-umberto](https://huggingface.co/pgajo/incel-umberto)https://huggingface.co/pgajo/incel-umberto
+- Incel UmBERTo: [pgajo/incel-umberto](https://huggingface.co/pgajo/incel-umberto)
+
