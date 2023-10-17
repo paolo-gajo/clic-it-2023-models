@@ -6,7 +6,7 @@ Authors: Paolo Gajo, Alberto Barrón Cedeño, Silvia Bernardini, Adriano Ferrare
 
 The models used in the paper can be accessed through Hugging Face with the following repo names:
 
-- mBERT: bert-base-multilingual-cased
+- mBERT: [bert-base-multilingual-cased](https://huggingface.co/bert-base-multilingual-cased)
 - Incel mBERT: [pgajo/incel-mbert](https://huggingface.co/pgajo/incel-mbert)
 - AlBERTo: [m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alb3rt0](https://huggingface.co/m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alb3rt0)
 - Incel AlBERTo: [pgajo/incel-alberto](https://huggingface.co/pgajo/incel-alberto)
